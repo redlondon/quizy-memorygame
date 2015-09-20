@@ -79,4 +79,5 @@ Create a <div> element with the same id ('my-memorygame') as we used in the acti
 
 This plugin is [MIT](http://en.wikipedia.org/wiki/MIT_License) licensed.
 
+by https://github.com/frenski/quizy-memorygame
 </body>
